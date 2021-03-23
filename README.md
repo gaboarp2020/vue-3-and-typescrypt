@@ -1,5 +1,8 @@
 # vue-3-and-typescript
 
+## Project description
+I make this project to explore new features in Vue 3 and its Typescript support. Feel free to take it and use it as example.
+
 ## Project setup
 ```
 npm install
